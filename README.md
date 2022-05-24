@@ -1,3 +1,3 @@
-# BOV Test file
+# BOV file
 
 Nothing special
